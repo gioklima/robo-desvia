@@ -12,6 +12,7 @@ Quando uma das chaves é acionada ao tocar em um objeto, o robô altera o movime
 - 2x Suporte de pilhas (4x AA)
 - Fios de conexão
 - Interruptor geral (liga/desliga)
+- Fita dupla face
 
 ## 🛠️ Funcionamento
 1. O robô segue em linha reta enquanto nenhuma chave está acionada.  
