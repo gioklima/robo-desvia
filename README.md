@@ -5,11 +5,11 @@ Este projeto consiste em um robô móvel simples capaz de **detectar obstáculos
 Quando uma das chaves é acionada ao tocar em um objeto, o robô altera o movimento do motor correspondente, fazendo uma manobra de desvio.
 
 ## ⚙️ Componentes Utilizados
-- 1x Chassi com rodas e suporte para motores
-- 2x Motores DC com caixa de redução
-- 2x Chaves fim de curso (limit switch)
-- 1x Ponte H (L298N ou equivalente)
-- 1x Suporte de pilhas (4x AA ou 9V, conforme projeto)
+- 1x Chassi 
+- 2x Motores com caixa de redução (com rodas)
+- 2x Chaves fim de curso 
+- 1x Roda castor
+- 2x Suporte de pilhas (4x AA)
 - Fios de conexão
 - Interruptor geral (liga/desliga)
 
@@ -30,10 +30,10 @@ Quando uma das chaves é acionada ao tocar em um objeto, o robô altera o movime
 - Melhorar a estrutura mecânica.
 
 ## 📷 Demonstração
-*(Adicione aqui uma foto ou vídeo do protótipo em funcionamento quando disponível)*
+
 
 ## 👩‍💻 Autores
-Projeto desenvolvido por [Giovanna Lima], [Eduardo Dias], [Fernanda Oliveira] e [Gabriel Alves]. Como estudo de eletrônica e robótica básica.
+Projeto desenvolvido por Giovanna Lima, Fernanda Oliveira, Eduardo Dias e Gabriel Alves. Como estudo de eletrônica e robótica básica.
 
 ---
 ✅ Projeto simples e de baixo custo para iniciantes em robótica!
