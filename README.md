@@ -30,8 +30,6 @@ Quando uma das chaves é acionada ao tocar em um objeto, o robô altera o movime
 - Adicionar LEDs indicadores de direção.  
 - Melhorar a estrutura mecânica.
 
-## 📷 Demonstração
-
 
 ## 👩‍💻 Autores
 Projeto desenvolvido por Giovanna Lima, Fernanda Oliveira, Eduardo Dias e Gabriel Alves. Como estudo de eletrônica e robótica básica.
